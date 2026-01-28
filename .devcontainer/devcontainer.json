@@ -1,5 +1,6 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"name": "Node.js & TypeScript",
+	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-24-bookworm",
 	"customizations": {
 		"vscode": {
 			"extensions": [
